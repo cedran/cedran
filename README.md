@@ -1,24 +1,27 @@
-# Olá, sou Iago Cedran 👋
+# Hello, I'm Iago Cedran
 
-👨‍💻 **Sobre Mim**:
-Sou um entusiasta apaixonado por Engenharia de Software, com foco em criar soluções inovadoras e eficientes. Minha jornada na programação é alimentada pela curiosidade constante e pelo desejo de resolver problemas complexos.
+👨‍💻 **About Me**:
+I am a software developer passionate about Software Engineering, focused on creating innovative and efficient solutions. My journey in programming is driven by constant curiosity and the desire to solve complex problems creatively and effectively.
 
-🔍 **Especialidades**:
-- **PHP & Laravel**: Desenvolvendo aplicações web robustas, com especial atenção à escalabilidade e segurança.
-- **Magento**: Construindo e otimizando lojas online, com experiência tanto em Magento 1 quanto em Magento 2.
-- **JavaScript**: Criando interfaces de usuário interativas e responsivas.
-- **Python & Go**: Explorando o poder de Python para automação e Go para sistemas de back-end de alto desempenho.
+🔍 **Specialties**:
+- **PHP & Laravel**: Experienced in developing robust web applications, with special attention to scalability and security.
+- **Magento**: Expertise in building and optimizing online stores, with extensive experience in both Magento 1 and Magento 2.
+- **JavaScript**: Skilled in creating interactive and responsive user interfaces. Familiar with popular frameworks such as React, Vue, Knockout.js, and jQuery.
+- **Python**: Utilizing Python for task automation and developing efficient solutions.
+- **Node.js**: Developing efficient and scalable server-side applications.
+- **Front-End Development**: Knowledge in HTML, CSS, and modern frameworks, ensuring optimized user experiences.
+- **DevOps & Security**: Implementing DevOps practices for deployment automation and continuous monitoring. Experienced in ensuring application security from development to production.
+- **Cloud Computing**: Proficient in working with cloud platforms such as AWS, Azure, and Google Cloud, implementing solutions that leverage the cloud's power for scalability and performance.
+- **Software Architecture**: Knowledge in software architecture design and design patterns, focused on developing robust and sustainable systems.
 
-🌱 **Aprendizado Contínuo**:
-Estou sempre buscando novos desafios e oportunidades para aprender. Atualmente, estou me aprofundando em arquitetura de software e padrões de design para desenvolvimento web.
+🌱 **Continuous Learning**:
+I am always seeking new challenges and learning opportunities. Currently, I am delving deeper into software architecture and design patterns for web development.
 
-👥 **Colaboração**:
-Acredito firmemente no poder da colaboração e estou sempre aberto a trabalhar em projetos interessantes. Se você tem uma ideia ou projeto em que acha que posso contribuir, não hesite em entrar em contato!
+👥 **Collaboration**:
+I firmly believe in the power of collaboration and am always open to working on interesting projects. If you have an idea or project where you think I can contribute, feel free to get in touch!
 
-📫 **Contato**:
+📫 **Contact**:
 - **Email**: iago.cedran@gmail.com
-- **LinkedIn**: www.linkedin.com/in/iagocedran
+- **LinkedIn**: [www.linkedin.com/in/iagocedran](www.linkedin.com/in/iagocedran)
 
-<!-- Não esqueça de adicionar os links reais para seu email e LinkedIn -->
-
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e conhecer mais sobre meus trabalhos e interesses no mundo do desenvolvimento de software.
+Thank you for visiting my profile! Feel free to explore my repositories and learn more about my work and interests in the software development world.
