@@ -21,7 +21,6 @@ I am always seeking new challenges and learning opportunities. Currently, I am d
 I firmly believe in the power of collaboration and am always open to working on interesting projects. If you have an idea or project where you think I can contribute, feel free to get in touch!
 
 📫 **Contact**:
-- **Email**: iago.cedran@gmail.com
 - **LinkedIn**: [www.linkedin.com/in/iagocedran](www.linkedin.com/in/iagocedran)
 
 Thank you for visiting my profile! Feel free to explore my repositories and learn more about my work and interests in the software development world.
