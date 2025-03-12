@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Iago Cedran</strong> <br/>
-  Software Developer | Software Architect | eCommerce Enthusiast
+  Software Developer | Software Architect | eCommerce Specialist
 </p>
 
 ---
