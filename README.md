@@ -1,7 +1,7 @@
 # Iago Cedran
 
 **Software Architect · AI Engineer**
-Brazil · [LinkedIn](https://www.linkedin.com/in/iagocedran) · <iago@bizcommerce.com.br>
+Brazil · [LinkedIn](https://www.linkedin.com/in/iagocedran)
 
 ---
 
@@ -36,4 +36,4 @@ I'm pragmatic. The stack is a means, not an identity:
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/iagocedran) · <iago@bizcommerce.com.br>
+[LinkedIn](https://www.linkedin.com/in/iagocedran)
