@@ -3,7 +3,7 @@
 **Software Architect · AI Engineer**
 Brazil · [LinkedIn](https://www.linkedin.com/in/iagocedran)
 
-> *Now — April 2026:* building evaluation pipelines for LLM features that run in production, and quietly migrating a Magento monolith toward bounded contexts.
+> *Now — April 2026:* integrating LLMs into production paths in a Magento-heavy stack, and quietly migrating a monolith toward bounded contexts.
 
 ---
 
@@ -11,41 +11,12 @@ Brazil · [LinkedIn](https://www.linkedin.com/in/iagocedran)
 
 I design and evolve systems where **eCommerce, integration complexity, and scale** meet — the kind of platform where a wrong architectural call shows up months later as a migration bill. Most of my background is on the Magento / PHP side of that world, but the interesting work is rarely about the framework: it's bounded contexts, event flows, idempotency, and choosing the smallest architecture that survives the next 18 months.
 
-Lately I'm focused on bringing **LLMs into existing systems** where they earn their keep — retrieval, classification, structured extraction — and treating them like any other dependency: with evals, observability, and guardrails.
-
-```mermaid
-flowchart LR
-    Client["Storefront / Mobile"]
-    BFF["API Gateway / BFF"]
-    Catalog["Catalog"]
-    Orders["Orders"]
-    Payments["Payments"]
-    AI["AI Services<br/>RAG · Classification · Extraction"]
-    Bus[("Event Bus")]
-    ERP["ERP / WMS / CRM"]
-    PSP["Payment & Shipping<br/>Providers"]
-    Eval["Evals &<br/>Observability"]
-
-    Client --> BFF
-    BFF --> Catalog
-    BFF --> Orders
-    BFF --> Payments
-    BFF --> AI
-    Orders --> Bus
-    Payments --> Bus
-    Catalog --> Bus
-    Bus --> ERP
-    Payments --> PSP
-    AI -.-> Eval
-    BFF -.-> Eval
-```
-
-<sub>A sketch of the kind of platform I tend to design — bounded contexts behind a thin BFF, async edges over an event bus, AI services as just another dependency with its own evals.</sub>
+Lately I'm focused on bringing **LLMs into existing systems** where they earn their keep — retrieval, classification, structured extraction — and treating them like any other dependency, with the same observability and guardrails I'd demand from a database.
 
 ## Recent focus
 
 - **Architecture**: domain-driven design, modular monoliths vs. service decomposition, event-driven patterns, ADRs as a habit, C4 for communication.
-- **AI engineering**: RAG over messy domain data, agent tool-use, evaluation pipelines, prompt caching and cost shaping, MCP for tool composition.
+- **AI engineering**: RAG over messy domain data, agent tool-use, prompt caching and cost shaping, MCP for tool composition.
 - **Platform quality**: observability that pays for itself, security-by-design, and the boring reliability work that makes the impressive stuff possible.
 
 ## How I think about the stack
