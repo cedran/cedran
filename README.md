@@ -3,15 +3,13 @@
 **Software Architect · AI Engineer**
 Brazil · [LinkedIn](https://www.linkedin.com/in/iagocedran)
 
-> *Now — April 2026:* integrating LLMs into production paths in a Magento-heavy stack, and quietly migrating a monolith toward bounded contexts.
-
 ---
 
 ## What I work on
 
-I design and evolve systems where **eCommerce, integration complexity, and scale** meet — the kind of platform where a wrong architectural call shows up months later as a migration bill. Most of my background is on the Magento / PHP side of that world, but the interesting work is rarely about the framework: it's bounded contexts, event flows, idempotency, and choosing the smallest architecture that survives the next 18 months.
+I design and evolve systems where **eCommerce, integration complexity, and scale** meet. It's the kind of platform where a wrong architectural call shows up months later as a migration bill. Most of my background is on the Magento / PHP side of that world, but the interesting work is rarely about the framework: it's bounded contexts, event flows, idempotency, and choosing the smallest architecture that survives the next 18 months.
 
-Lately I'm focused on bringing **LLMs into existing systems** where they earn their keep — retrieval, classification, structured extraction — and treating them like any other dependency, with the same observability and guardrails I'd demand from a database.
+Lately I'm focused on bringing **LLMs into existing systems** where they earn their keep, in places like retrieval, classification, and structured extraction. I treat them like any other dependency, with the same observability and guardrails I'd demand from a database.
 
 ## Recent focus
 
@@ -27,11 +25,11 @@ I'm pragmatic. The stack is a means, not an identity:
 - **Data**: PostgreSQL first, Redis where it earns its place, message brokers when async is the right answer (not before).
 - **Cloud**: AWS by default; comfortable on GCP and Azure. Containers and Kubernetes when complexity justifies them.
 - **AI/LLM**: Anthropic and OpenAI APIs, embeddings + pgvector/Qdrant, evals before vibes.
-- **eCommerce**: deep familiarity with Magento 2 — including when *not* to use it.
+- **eCommerce**: deep familiarity with Magento 2, including when *not* to use it.
 
 ## Principles
 
-- Architecture decisions deserve writing — ADRs over tribal knowledge.
+- Architecture decisions deserve writing. ADRs over tribal knowledge.
 - Trade-offs are the work; "best practices" without context are folding chairs.
 - Skeptical of agent demos that don't survive evals.
 - Boring tech for the load-bearing parts; novelty where the upside is asymmetric.
