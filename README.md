@@ -1,6 +1,7 @@
 # Iago Cedran
 
 **Software Architect · Software Architect**
+
 Brazil · [LinkedIn](https://www.linkedin.com/in/iagocedran)
 
 ---
