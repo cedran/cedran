@@ -1,6 +1,6 @@
 # Iago Cedran
 
-**Software Architect · AI Engineer**
+**Software Architect · Software Architect**
 Brazil · [LinkedIn](https://www.linkedin.com/in/iagocedran)
 
 ---
